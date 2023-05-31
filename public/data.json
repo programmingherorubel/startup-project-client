@@ -1,0 +1,202 @@
+[
+    {
+        "email": "john.doe@example.com",
+        "name": "John Doe",
+        "category": "Work"
+    },
+    {
+        "email": "jane.smith@example.com",
+        "name": "Jane Smith",
+        "category": "Personal"
+    },
+    {
+        "email": "mark.johnson@example.com",
+        "name": "Mark Johnson",
+        "category": "Work"
+    },
+    {
+        "email": "sara.wilson@example.com",
+        "name": "Sara Wilson",
+        "category": "information"
+    },
+    {
+        "email": "alex.brown@example.com",
+        "name": "Alex Brown",
+        "category": "Work"
+    },
+    {
+        "email": "emily.jones@example.com",
+        "name": "Emily Jones",
+        "category": "Personal"
+    },
+    {
+        "email": "michael.nguyen@example.com",
+        "name": "Michael Nguyen",
+        "category": "Work"
+    },
+    {
+        "email": "lisa.anderson@example.com",
+        "name": "Lisa Anderson",
+        "category": "Personal"
+    },
+    {
+        "email": "james.wilson@example.com",
+        "name": "James Wilson",
+        "category": "information"
+    },
+    {
+        "email": "amy.johnson@example.com",
+        "name": "Amy Johnson",
+        "category": "Personal"
+    },
+    {
+        "email": "david.smith@example.com",
+        "name": "David Smith",
+        "category": "Work"
+    },
+    {
+        "email": "olivia.davis@example.com",
+        "name": "Olivia Davis",
+        "category": "Personal"
+    },
+    {
+        "email": "robert.johnson@example.com",
+        "name": "Robert Johnson",
+        "category": "information"
+    },
+    {
+        "email": "megan.wilson@example.com",
+        "name": "Megan Wilson",
+        "category": "information"
+    },
+    {
+        "email": "matthew.brown@example.com",
+        "name": "Matthew Brown",
+        "category": "Work"
+    },
+    {
+        "email": "sophia.thomas@example.com",
+        "name": "Sophia Thomas",
+        "category": "Personal"
+    },
+    {
+        "email": "william.jones@example.com",
+        "name": "William Jones",
+        "category": "Work"
+    },
+    {
+        "email": "ava.davis@example.com",
+        "name": "Ava Davis",
+        "category": "Personal"
+    },
+    {
+        "email": "joseph.anderson@example.com",
+        "name": "Joseph Anderson",
+        "category": "Work"
+    },
+    {
+        "email": "abigail.brown@example.com",
+        "name": "Abigail Brown",
+        "category": "Personal"
+    },
+    {
+        "email": "john.doe@example.com",
+        "name": "John Doe",
+        "category": "Work"
+    },
+    {
+        "email": "jane.smith@example.com",
+        "name": "Jane Smith",
+        "category": "Personal"
+    },
+    {
+        "email": "mark.johnson@example.com",
+        "name": "Mark Johnson",
+        "category": "Work"
+    },
+    {
+        "email": "sara.wilson@example.com",
+        "name": "Sara Wilson",
+        "category": "information"
+    },
+    {
+        "email": "alex.brown@example.com",
+        "name": "Alex Brown",
+        "category": "Work"
+    },
+    {
+        "email": "emily.jones@example.com",
+        "name": "Emily Jones",
+        "category": "Personal"
+    },
+    {
+        "email": "michael.nguyen@example.com",
+        "name": "Michael Nguyen",
+        "category": "Work"
+    },
+    {
+        "email": "lisa.anderson@example.com",
+        "name": "Lisa Anderson",
+        "category": "Personal"
+    },
+    {
+        "email": "james.wilson@example.com",
+        "name": "James Wilson",
+        "category": "information"
+    },
+    {
+        "email": "amy.johnson@example.com",
+        "name": "Amy Johnson",
+        "category": "Personal"
+    },
+    {
+        "email": "david.smith@example.com",
+        "name": "David Smith",
+        "category": "Work"
+    },
+    {
+        "email": "olivia.davis@example.com",
+        "name": "Olivia Davis",
+        "category": "Personal"
+    },
+    {
+        "email": "robert.johnson@example.com",
+        "name": "Robert Johnson",
+        "category": "information"
+    },
+    {
+        "email": "megan.wilson@example.com",
+        "name": "Megan Wilson",
+        "category": "information"
+    },
+    {
+        "email": "matthew.brown@example.com",
+        "name": "Matthew Brown",
+        "category": "Work"
+    },
+    {
+        "email": "sophia.thomas@example.com",
+        "name": "Sophia Thomas",
+        "category": "Personal"
+    },
+    {
+        "email": "william.jones@example.com",
+        "name": "William Jones",
+        "category": "Work"
+    },
+    {
+        "email": "ava.davis@example.com",
+        "name": "Ava Davis",
+        "category": "Personal"
+    },
+    {
+        "email": "joseph.anderson@example.com",
+        "name": "Joseph Anderson",
+        "category": "Work"
+    },
+    {
+        "email": "abigail.brown@example.com",
+        "name": "Abigail Brown",
+        "category": "Personal"
+    }
+]
